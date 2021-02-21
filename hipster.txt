@@ -1,0 +1,10 @@
+
+
+LOTRem ipsum is a Lord of the Rings and The Hobbit-themed random text generator created by two web developer friends who like writing code.
+
+It started out as a fun project, but as we poured more hours into the development, we quickly realized that there's a whole lot we can improve over existing lorem ipsum generator websites.
+
+As coders we find random text generators useful for our work, but they lack a certain je ne sais quoi to effortlessly integrate into our work. So, we've implemented a handful of quality of life improvements to make using this tool for fellow web designers and developers as hassle-free as possible.
+
+If you have any ideas about the generator or would like to report a bug to us, we kindly invite you to email us at hi@lotremipsum.com.
+
