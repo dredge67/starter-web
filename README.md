@@ -11,3 +11,6 @@ Add some text to Deployment.
 
 ## How To Contribute
 Add some text to Contribute.
+
+### Copyright
+All rights reserved.
